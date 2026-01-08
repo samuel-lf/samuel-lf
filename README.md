@@ -41,12 +41,3 @@
  <img align="center" src="https://img.shields.io/badge/-samuel_lf-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
-<br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=samuel-lf&show_icons=true&theme=vision-friendly-dark" alt="samuel-lf's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-lf&layout=compact&theme=vision-friendly-dark" alt="samuel-lf's most languages"/>
-</p>
